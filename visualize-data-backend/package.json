@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "react-router-dom": "^6.23.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "visualize-data-backend",
+  "version": "1.0.0",
+  "description": "visualize data backend",
+  "main": "server.js",
+  "author": "kiran kumar mekala",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
